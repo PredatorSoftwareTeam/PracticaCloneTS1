@@ -1,6 +1,0 @@
-@echo off
-echo.
-echo aya2909
-echo.
-pause
-exit
